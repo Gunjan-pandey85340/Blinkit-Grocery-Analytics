@@ -33,18 +33,6 @@ Designed a premium dark-mode Blinkit Grocery Analytics Dashboard analyzing ₹4.
 - Stripped whitespace and newline characters from all text columns.
 - Generated cleaned, renamed output files for direct Power BI import.
 
-## 📁 Dataset
-- **Source:** [Kaggle - Blinkit Sales Dataset](https://www.kaggle.com/datasets/akxiit/blinkit-sales-dataset)
-- **Tables:** 8 relational CSVs (Star Schema)
-- **Total Rows:** 98,000+ (across all tables)
-
-## 📊 Dashboard Pages
-| Page | Focus Area |
-|------|-----------|
-| Business Overview | Revenue KPIs, Monthly Trend, Category Donut, Delivery Status |
-| Product Analysis | Category Revenue, Top Brands Treemap, Profitability Matrix |
-| Delivery & Feedback | On-time %, Delay Reasons, CSAT by Segment, Feedback Categories |
-| Revenue & Marketing | Channel Spend vs Revenue, Campaign ROAS, Clicks vs Conversions |
 
 ## 📞 Contact
 - **LinkedIn:** [Parag Varshney](https://www.linkedin.com/in/parag-varshney-15a62b231/)
